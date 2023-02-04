@@ -1,0 +1,1 @@
+A sample flutter project to illustrate the way to responsive design
